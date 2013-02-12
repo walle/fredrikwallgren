@@ -51,7 +51,6 @@ aside {
   height: 100%;
   float: left;
   position: fixed;
-  -webkit-overflow-scrolling: touch;
   background: #4a4d4e;
   padding: 20px;
 
@@ -175,7 +174,6 @@ article .links ul {
   -moz-border-radius-bottomright: 3px;
   border-top-right-radius: 3px;
   border-bottom-right-radius: 3px;
-  -webkit-overflow-scrolling: touch;
 }
 
 @media all and (max-width: 959px) {
