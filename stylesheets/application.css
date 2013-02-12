@@ -175,6 +175,7 @@ article .links ul {
   -moz-border-radius-bottomright: 3px;
   border-top-right-radius: 3px;
   border-bottom-right-radius: 3px;
+  -webkit-overflow-scrolling: touch;
 }
 
 @media all and (max-width: 959px) {
