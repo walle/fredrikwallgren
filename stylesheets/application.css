@@ -51,6 +51,7 @@ aside {
   height: 100%;
   float: left;
   position: fixed;
+  -webkit-overflow-scrolling: touch;
   background: #4a4d4e;
   padding: 20px;
 
