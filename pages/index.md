@@ -1,7 +1,3 @@
----
-layout: page
----
-
 # Fredrik Wallgren
 
 ![Portrait](/images/fredrik.jpg)
